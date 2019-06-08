@@ -1,6 +1,5 @@
-package model;
+package guru.springframework.sfgpetclinic.model;
 
-import java.security.PrivateKey;
 import java.time.LocalDate;
 
 public class Pet {
